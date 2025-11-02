@@ -1,3 +1,9 @@
+-- CREDIT RISK ANALYSIS - EXPLORATORY QUERIES
+-- Database: CreditRisk
+-- Table: [dbo].[UCI_Credit_Card]
+
+
+
 -- QUERY 6: EAD-WEIGHTED DEFAULT RATE (OVERALL & BY GENDER)
 -- Purpose: Đo tỷ lệ vỡ nợ có trọng số theo hạn mức tín dụng (EAD) để phản ánh rủi ro danh mục
 WITH s AS (
